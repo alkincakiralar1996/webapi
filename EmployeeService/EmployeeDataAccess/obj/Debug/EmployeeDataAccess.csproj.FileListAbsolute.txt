@@ -1,0 +1,10 @@
+C:\Users\alkin\Desktop\WEB API TUTORIAL\EmployeeService\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll.config
+C:\Users\alkin\Desktop\WEB API TUTORIAL\EmployeeService\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll
+C:\Users\alkin\Desktop\WEB API TUTORIAL\EmployeeService\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.pdb
+C:\Users\alkin\Desktop\WEB API TUTORIAL\EmployeeService\EmployeeDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\alkin\Desktop\WEB API TUTORIAL\EmployeeService\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alkin\Desktop\WEB API TUTORIAL\EmployeeService\EmployeeDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\alkin\Desktop\WEB API TUTORIAL\EmployeeService\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alkin\Desktop\WEB API TUTORIAL\EmployeeService\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csprojResolveAssemblyReference.cache
+C:\Users\alkin\Desktop\WEB API TUTORIAL\EmployeeService\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.dll
+C:\Users\alkin\Desktop\WEB API TUTORIAL\EmployeeService\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.pdb
